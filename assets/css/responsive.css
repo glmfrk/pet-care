@@ -1,0 +1,47 @@
+@media (min-width: 1400px) {
+}
+@media (max-width: 1399px) {
+	/* header middle logo & address responsive start */
+	.address-info .h5-heading {
+		font-size: 15px;
+	}
+	.address-info > .info {
+		line-height: 20px;
+	}
+	/* header middle logo & address responsive done */
+}
+@media (max-width: 1200px) {
+	/* header navigation responsive start */
+	.primary-menu {
+		margin-right: 32px;
+	}
+	.menu > .nav-list {
+		margin-right: 38px;
+	}
+	.menu > .nav-list > .nav-link {
+		font-size: 14px;
+	}
+	.user-login > .login-icon {
+		margin-right: 8px;
+	}
+	.register-link > a {
+		font-size: 13px;
+		font-weight: 600;
+	}
+	/* header navigation responsive done */
+}
+@media (max-width: 991px) {
+	/* hero banner responsive start */
+	.left-hero-contents {
+		margin-bottom: 50px;
+	}
+	/* hero banner responsive done */
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
+}
+@media (max-width: 480px) {
+}
+@media (max-width: 375px) {
+}
